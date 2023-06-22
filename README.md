@@ -18,7 +18,7 @@ The website is built using the following technologies:
 
 To run the website locally, follow these steps:
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone (https://github.com/Lootera69/Microsoft-Internship)`
 2. Open the `index.html` file in your web browser.
 
 ## File Structure
